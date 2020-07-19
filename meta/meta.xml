@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>WiiU HID Tester</name>
+  <coder>Pokes303</coder>
+  <version>1.0</version>
+  <release_date>0</release_date>
+  <short_description>Small PoC homebrew application to test any HID device</short_description> 
+  <long_description>A small PoC homebrew application to test any HID (Human interface device) device you want You can read useful info about the HID device you want (Like VID/PID, max transfer packet size, class, protocol, etc...)
+
+-Press L/R to see other devices (max 8 devices at the same time) -Press PLUS to read values from the device -Press MINUS to change the menu and write values to the device
+  
+  Releases: https://github.com/Pokes303/WiiU-HID-Tester/releases
+  Source code: https://github.com/Pokes303/WiiU-HID-Tester
+  </long_description> 
+
+</app>
